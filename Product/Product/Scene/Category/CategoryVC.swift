@@ -47,6 +47,7 @@ class CategoryVC: UIViewController {
         categoryTbl.delegate = self
         categoryTbl.dataSource = self
         categoryTbl.allowsMultipleSelection = true
+        categoryTbl.isScrollEnabled = false
         categoryTbl.reloadData()
         categoryTbl.frame = CGRect(x: categoryTbl.frame.origin.x,
                                      y: categoryTbl.frame.origin.y,
