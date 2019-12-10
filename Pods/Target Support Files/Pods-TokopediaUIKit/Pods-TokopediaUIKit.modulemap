@@ -1,0 +1,6 @@
+framework module Pods_TokopediaUIKit {
+  umbrella header "Pods-TokopediaUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Tokopedia.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Features">
+      <FileRef
+         location = "group:Product/Product.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Splash/Splash.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Commons">
+      <FileRef
+         location = "group:TokopediaUIKit/TokopediaUIKit.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Utils/Utils.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Navigations/Navigations.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Core/Core.xcodeproj">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
